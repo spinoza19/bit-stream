@@ -1,4 +1,0 @@
-# bit-stream
-Commit 8
-Date: 2025-10-07T18:21:13Z
-Add documentation
